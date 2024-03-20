@@ -10,27 +10,27 @@ const CONFIG = {
   ],
 
   // 英雄区左右侧组件颠倒位置
-  HEO_HERO_REVERSE: false,
+  HEO_HERO_REVERSE: false, 
   // 博客主体区左右侧组件颠倒位置
-  HEO_HERO_BODY_REVERSE: false,
+  HEO_HERO_BODY_REVERSE: false, 
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: 'Decentraland活动分享',
+  HEO_HERO_TITLE_1: 'Decentraland活动分享', 
   HEO_HERO_TITLE_2: '推特活动分享',
-  HEO_HERO_TITLE_3: 'paulyong.COM',
+  HEO_HERO_TITLE_3: 'PAULYONG.COM', 
   HEO_HERO_TITLE_4: '最新活动资讯',
   HEO_HERO_TITLE_5: '游戏视频教学',
-  HEO_HERO_TITLE_LINK: 'https://www.paulyong.com/',
+  HEO_HERO_TITLE_LINK: 'https://www.paulyong.com/', 
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门项目', url: '/tag/热门项目' },
+  HEO_HERO_CATEGORY_1: { title: '精选活动', url: '/tag/精选活动' }, 
+  HEO_HERO_CATEGORY_2: { title: '活动资讯', url: '/tag/活动资讯' },
   HEO_HERO_CATEGORY_3: { title: '视频教学', url: '/tag/视频教学' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
-  HEO_HERO_RECOMMEND_POST_TAG: '推荐',
+  HEO_HERO_RECOMMEND_POST_TAG: '推荐', 
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
-  //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
+  //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片 
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
@@ -105,10 +105,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
+  HEO_SOCIAL_CARD_TITLE_1: '交流频道', 
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://www.notion.so/7685a83e232641b5940d8536f76392bb?pvs=4',
+  HEO_SOCIAL_CARD_TITLE_3: '点击加入微信群',
+  HEO_SOCIAL_CARD_URL: 'https://www.notion.so/7685a83e232641b5940d8536f76392bb?pvs=4',  
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
