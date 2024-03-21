@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的Decentraland中文分享站', url: '' },
-    { title: '一起零成本玩赚Decentraland吧', url: '' }
+    { title: '欢迎来到我的Decentraland中文分享站', url: 'https://www.notion.so/0bc199f82e7e4c6a84896f00c25556ae?v=134e4e6f91cb46f3859d0e7c10a6d86f' },
+    { title: '一起零成本玩赚Decentraland吧', url: 'https://decentraland.org/play/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -106,7 +106,7 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道', 
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
+  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社区讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入微信群',
   HEO_SOCIAL_CARD_URL: 'https://www.notion.so/7685a83e232641b5940d8536f76392bb?pvs=4',  
 
