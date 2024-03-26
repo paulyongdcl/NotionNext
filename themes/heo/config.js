@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'PAULYONG.COM', 
   HEO_HERO_TITLE_4: '最新活动资讯',
   HEO_HERO_TITLE_5: '游戏视频教学',
-  HEO_HERO_TITLE_LINK: 'https://www.paulyong.com/', 
+  HEO_HERO_TITLE_LINK: 'https://www.youtube.com/channel/UC5W1mw6q3Y5zC_BJoE0Rumg', 
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '精选活动', url: '/tag/精选活动' }, 
