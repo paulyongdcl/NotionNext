@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的Decentraland中文分享站', url: 'https://www.notion.so/0bc199f82e7e4c6a84896f00c25556ae?v=134e4e6f91cb46f3859d0e7c10a6d86f' },
+    { title: '欢迎来到我的Decentraland活动中文分享站', url: 'https://www.notion.so/0bc199f82e7e4c6a84896f00c25556ae?v=134e4e6f91cb46f3859d0e7c10a6d86f' },
     { title: '一起零成本玩赚Decentraland吧', url: 'https://decentraland.org/play/' }
   ],
 
