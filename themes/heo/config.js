@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://www.youtube.com/channel/UC5W1mw6q3Y5zC_BJoE0Rumg', 
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '正在参与', url: '/tag/正在参与' }, 
+  HEO_HERO_CATEGORY_1: { title: '直播', url: '/tag/直播' }, 
   HEO_HERO_CATEGORY_2: { title: '活动快讯', url: '/tag/活动快讯' },
   HEO_HERO_CATEGORY_3: { title: '游戏攻略', url: '/tag/游戏攻略' },
 
